@@ -1,5 +1,5 @@
 # Hello there! 👋
-My name is Álvaro Torralba, I'm a young programmer interested in [various topics](#things-i-like) (and Minecraft!)
+My name is Álvaro Torralba, I'm a young programmer interested in [various topics](#things-i-like) (and Minecraft!). I currently have almost 7 years of experience in most of these things.
 
 ### I'm currently working on...
  + [@MCPI-Devs](https://github.com/MCPI-Devs)! An organization full of useful and fun Minecraft Pi mods and related programs. An awesome community too 😄
