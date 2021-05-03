@@ -2,7 +2,7 @@
 My name is Álvaro Torralba, I'm a young programmer interested in [various topics](#things-i-like) (and Minecraft!). I currently have almost 7 years of experience in most of these things.
 
 ### I'm currently working on...
- + [@MCPI-Devs](https://github.com/MCPI-Devs)! An organization full of useful and fun Minecraft Pi mods and related programs. An awesome community too 😄
+ + [@MCPI-Revival](https://github.com/MCPI-Revival)! An organization full of useful and fun Minecraft Pi mods and related programs. An awesome community too 😄
  + [craft-engine](https://github.com/craft-devs/craft-engine): A fork of [@code-dot-org](https://github.com/code-dot-org)'s Minecraft-like engine.
  + And some low-level graphics stuff for Linux... :eyes:
 
